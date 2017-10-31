@@ -20,8 +20,8 @@ public class Contract {
                 BASE_CONTENT_URI.buildUpon().appendPath(PATH).build();
 
         public static final String TABLE_NAME = "Contract";
-        public static final String COLUMN_NAME = "Name of Preson";
-        public static final String COLUMN_NUMBER="Number of Person";
+        public static final String COLUMN_NAME = "Name_of_Person";
+        public static final String COLUMN_NUMBER="Number_of_Person";
 
     }
 
